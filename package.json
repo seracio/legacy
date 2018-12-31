@@ -1,0 +1,11 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:seracio/website.git",
+  "author": "nicolasmondon <nicolasmondon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ghost-to-gatsby": "^1.1.0"
+  }
+}
